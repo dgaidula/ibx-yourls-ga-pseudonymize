@@ -9,7 +9,7 @@ Copy plugin.php to *YOURLS_HOME*/user/plugins/ibx-yourls-ga-pseudonymize folder 
 
 ## MIT License
 
-Copyright (c) 2020 Dan Gaidula - https://gaidula.com
+Copyright (c) 2020 Danniel T. Gaidula - https://gaidula.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
